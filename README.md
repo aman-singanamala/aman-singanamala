@@ -13,23 +13,13 @@
 - 😄 Pronouns: He/Him.
 
 
-# Languages and Tools:pencil2::
-
-<code><a href="https://nodejs.org/en/" target="_blank"><img src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor"></a></code>
-<code><a href="https://www.npmjs.com/" target="_blank"><img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=40&color=currentColor"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img src="https://icongr.am/devicon/mongodb-original.svg?size=40&color=currentColor"></a></code>
-<code><img src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor"></code>
-<code><a href="https://www.python.org/" target="_blank"><img src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor"></a></code>
 
 
 # Github Activity📊:
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharathguvvala&&show_icons=true&theme=algolia&hide_border=true" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathguvvala&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathguvvala&&show_icons=true&&theme=algolia&hide_border=true" alt="Sharath Kumar Reddy Guvvala's GitHub Stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=aman-singanamala&&show_icons=true&theme=algolia&hide_border=true" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singanamala&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="Sharath Kumar Reddy Guvvala's GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-singanamala&&show_icons=true&&theme=algolia&hide_border=true" alt="Sharath Kumar Reddy Guvvala's GitHub Stats"> 
 
 
 # Connect with me:man_technologist::
