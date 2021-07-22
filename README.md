@@ -1,6 +1,6 @@
-<h1 align="center">Hola!👋, I am Sharath Kumar Reddy Guvvala.</h1>
+<h1 align="center">Hey there👋, I am Aman Singanamla</h1>
 <!-- <h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-singanamala" alt="Sharath Kumar Reddy Guvvala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-singanamala" alt="Aman Singanamala" /> </p>
 
 
 ### Some more about me
