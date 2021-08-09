@@ -6,7 +6,6 @@
 ### Some more about me
 - 🔭 I’m currently in the process of learning Web Development.
 - 👨💻 Currently learning and growing my skills in data structures and algorithms and Web Development.
-- 👯 I’m looking to collaborate on Project's and Hackathon's.
 - �  Recently started learning Javascript.
 - 💬 Ask me about CSS, HTML.
 - 📫 Reach me at: **amansinganamala@gmail.com**
