@@ -4,10 +4,10 @@
 
 
 ### Some more about me
-- 🔭 I’m currently in the process of learning Web Development.
+- 🔭 I’m currently in the process of learning Web Development and ML.
 - 👨💻 Currently learning and growing my skills in data structures and algorithms and Web Development.
 
-- 💬 Ask me about CSS, HTML.
+- 💬 Ask me about CSS, HTML,python,C++.
 - 📫 Reach me at: **amansinganamala@gmail.com**
 - 😄 Pronouns: He/Him.
 
@@ -27,8 +27,4 @@
 [<img align="left" alt="AMAN SINGANAMALA| Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/i_am_s.aman/)
 
 
-<!--
-| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenscience) |
-| --- | --- |
-| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenscience) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
--->
+
