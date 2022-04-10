@@ -7,7 +7,7 @@
 - 🔭 I’m currently in the process of learning Web Development and ML.
 - 👨💻 Currently learning and growing my skills in data structures and algorithms and Web Development.
 
-- 💬 Ask me about CSS, HTML,python,C++.
+- 💬 Ask me about CSS, HTML,python.
 - 📫 Reach me at: **amansinganamala@gmail.com**
 - 😄 Pronouns: He/Him.
 
