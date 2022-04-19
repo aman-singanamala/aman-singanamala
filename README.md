@@ -4,10 +4,10 @@
 
 
 ### Some more about me
-- 🔭 I’m currently in the process of learning Web Development and ML.
-- 👨💻 Currently learning and growing my skills in data structures and algorithms and Web Development.
+- 🔭 ML ML ML 
+- 👨💻 Currently learning and growing my skills in Data structures and Algorithms and Web Development.
 
-- 💬 Ask me about CSS, HTML,python.
+- 💬 Ask me about CSS, HTML, Python
 - 📫 Reach me at: **amansinganamala@gmail.com**
 - 😄 Pronouns: He/Him.
 
