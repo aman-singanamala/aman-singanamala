@@ -4,7 +4,7 @@
 
 
 ### Some more about me
-- 🔭 ML ML ML 
+- 🔭 ML
 - 👨💻 Currently learning and growing my skills in Data structures and Algorithms and Web Development.
 
 - 💬 Ask me about CSS, HTML, Python
