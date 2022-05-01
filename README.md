@@ -1,20 +1,21 @@
 <h1 align="center">Hey there👋, I am Aman Singanamala</h1>
 <!-- <h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-singanamala" alt="Aman Singanamala" /> </p>
-
-
-### Some more about me
-- 🔭 ML
-- 👨💻 Exploring Machine Learning.
-
-- 💬 Ask me about CSS, HTML, Python
-- 📫 Reach me at: **amansinganamala@gmail.com**
-- 😄 Pronouns: He/Him.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aman-singanamala" alt="Aman Singanamala" /> </p>
 
 
 
 
-# Github Activity📊:
+- 🌱 I’m currently exploring **Machine Learning**
+
+- 📝 I regularly write articles on [https://amansinganamala.medium.com/](https://amansinganamala.medium.com/)
+
+- 📫 How to reach me **amansinganamala@gmail.com**
+   
+
+
+
+<h2 align="center"> Github Activity📊:</h2>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aman-singanamala&&show_icons=true&theme=algolia&hide_border=true" alt="AMAN SINGANAMALA GitHub Stats">
   <br/>
