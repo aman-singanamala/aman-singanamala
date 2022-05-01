@@ -17,7 +17,11 @@
 # Github Activity📊:
 
 <img src="https://github-readme-stats.vercel.app/api?username=aman-singanamala&&show_icons=true&theme=algolia&hide_border=true" alt="AMAN SINGANAMALA GitHub Stats">
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singanamala&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="AMAN SINGANAMALA GitHub Stats">
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-singanamala&&show_icons=true&&theme=algolia&hide_border=true" alt="*AMAN SINGANAMALA** GitHub Stats"> 
 
 
@@ -27,8 +31,18 @@
 
 ## 🧰 Languages : 
 <p align="center">
+  
+  
+ <!--HTML-->
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="vertical-align:top; margin:4px">
+  
+  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40" style="vertical-align:top; margin:4px">
+  
+  <!-- BootStrap-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   
   <!-- Javascript-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
