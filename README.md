@@ -74,6 +74,9 @@
   <!-- Open Cv -->
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="Opencv" width="50" height="50" style="vertical-align:top; margin:8px">
   
+  <!-- Heroku -->
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50" style="vertical-align:top; margin:8px">
+  
   </p>
 
 
