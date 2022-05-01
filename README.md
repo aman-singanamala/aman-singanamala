@@ -71,8 +71,10 @@
   
   <!-- pandas -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="vertical-align:top; margin:8px">
+  <!-- Open Cv -->
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="Opencv" width="50" height="50" style="vertical-align:top; margin:8px">
   
-  </P>
+  </p>
 
 
 
