@@ -25,7 +25,7 @@
 
 <br />
 
-## 🧰 Languages : 
+<h2 align="center"> 🧰 LANGUAGES</h2>
 <p align="center">
   <!--HTML-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="vertical-align:top; margin:8px">
@@ -42,7 +42,7 @@
 </p>
 <br />
 
-## 🧰 Tools : 
+<h2 align="center"> 🧰 TOOLS</h2>
 
 <p align="center">
   <!-- Tenosr Flow -->
@@ -59,8 +59,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/aman_s1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman_s1708" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-singanamala-4aa05a206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-singanamala-4aa05a206" height="30" width="40" /></a>
 <a href="https://instagram.com/_i_.am_.aman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_i_.am_.aman_" height="30" width="40" /></a>
