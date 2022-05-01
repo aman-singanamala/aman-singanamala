@@ -19,7 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aman-singanamala&&show_icons=true&theme=algolia&hide_border=true" alt="AMAN SINGANAMALA GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singanamala&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="AMAN SINGANAMALA GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-singanamala&&show_icons=true&&theme=algolia&hide_border=true" alt="*AMAN SINGANAMALA** GitHub Stats"> 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Connect with me:man_technologist::
 
