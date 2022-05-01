@@ -21,14 +21,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-singanamala&&show_icons=true&&theme=algolia&hide_border=true" alt="*AMAN SINGANAMALA** GitHub Stats"> 
 
 
-<br>
-# Connect with me:man_technologist::
 
-[<img align="left" alt="AMAN SINGANAMALA | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/aman-singanamala-4aa05a206/)
-[<img align="left" alt="AMAN SINGANAMALA| Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/_i_.am_.aman_/)
-[<img align="left" alt="AMAN SINGANAMALA| Medium" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://amansinganamala.medium.com/)
-[<img align="left" alt="AMAN SINGANAMALA| Twitter" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />](https://twitter.com/Aman_S1708/)
+<br />
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 
 
