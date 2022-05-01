@@ -24,7 +24,7 @@
 # Connect with me:man_technologist::
 
 [<img align="left" alt="AMAN SINGANAMALA | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/aman-singanamala-4aa05a206/)
-[<img align="left" alt="AMAN SINGANAMALA| Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/i_am_s.aman/)
+[<img align="left" alt="AMAN SINGANAMALA| Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/_i_.am_.aman_/)
 
 
 
