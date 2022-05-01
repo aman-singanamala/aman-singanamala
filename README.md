@@ -5,7 +5,7 @@
 
 ### Some more about me
 - 🔭 ML
-- 👨💻 Currently learning and growing my skills in Data structures and Algorithms and Web Development.
+- 👨💻 Exploring Machine Learning.
 
 - 💬 Ask me about CSS, HTML, Python
 - 📫 Reach me at: **amansinganamala@gmail.com**
