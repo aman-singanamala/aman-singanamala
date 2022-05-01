@@ -5,14 +5,19 @@
 
 
 
-- 🌱 I’m currently exploring **Machine Learning**
 
-- 📝 I regularly write articles on [https://amansinganamala.medium.com/](https://amansinganamala.medium.com/)
 
-- 📫 How to reach me **amansinganamala@gmail.com**
+
+
+<h4 align="center"> 👨💻 Exploring Machine Learning.</h4>
+<h4 align="center"> 💬 Ask me about CSS, HTML, Python</h4>
+<h4 align="center"> 📫 Reach me at: *amansinganamala@gmail.com*</h4>
+<h4 align="center"> 😄 Pronouns: He/Him.</h4>
+
+
    
 
-
+<br/>
 
 <h2 align="center"> Github Activity📊:</h2>
 
