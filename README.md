@@ -30,6 +30,8 @@
   </p>
 
 
+
+[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=aman-singanamala&theme=react-dark)](https://github.com/aman-singanamala/github-readme-activity-graph)
 <br />
 
 
