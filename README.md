@@ -2,7 +2,7 @@
 <h1 align="center">Hey there👋, I am Aman Singanamala</h1>
 <!-- <h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3> -->
  
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=aman-singanamala" alt="Aman Singanamala" /> 
+  <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=aman-singanamala" alt="Aman Singanamala" /> -->
 
 
 
