@@ -90,6 +90,13 @@
 </p>
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/amansinganamala/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/amansinganamala/0" alt="Recent Article 0"> 
+ <br>
+  <h3 align="center">Recent Blog On Medium</h3>
+  
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amansinganamala/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amansinganamala/0" alt="Recent Article 0"> 
+ 
+ 
+ 
+
 
 
