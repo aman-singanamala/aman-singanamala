@@ -31,7 +31,6 @@
   </p>
 
 
-
 [![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=aman-singanamala&theme=react-dark)](https://github.com/aman-singanamala/github-readme-activity-graph)
 <br />
 
@@ -98,8 +97,4 @@
  
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amansinganamala/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amansinganamala/1" alt="Recent Article 1"> 
  
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amansinganamala/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amansinganamala/2" alt="Recent Article 2"> 
-
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amansinganamala/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amansinganamala/3" alt="Recent Article 3"> 
 
