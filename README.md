@@ -1,5 +1,5 @@
 <hr/>
-<h1 align="center">Hey there👋, I am Aman Singanamala</h1>
+<h1 align="center">Hey 👋,I am Aman Singanamala </h1>
 <!-- <h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3> -->
  
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=aman-singanamala" alt="Aman Singanamala" />
@@ -10,7 +10,7 @@
 
 
 
-<h4 align="center"> 👨💻 Exploring Machine Learning.</h4>
+<h4 align="center"> 👨💻 Data Science Enthusiast</h4>
 <h4 align="center"> 💬 Ask me about CSS, HTML, Python</h4>
 <h4 align="center"> 📫 Reach me at: <b>amansinganamala@gmail.com</b></h4>
 <h4 align="center"> 😄 Pronouns: He/Him.</h4>
@@ -37,7 +37,7 @@
 
 
 <hr/>
-<h1 align="center">LANGUAGES</h1>
+<h1 align="center">LANGUAGES AND TOOLS</h1>
 <p align="center">
   <!--HTML-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="vertical-align:top; margin:8px">
@@ -51,14 +51,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="vertical-align:top; margin:8px">
   <!-- C++ -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="vertical-align:top; margin:8px">
-</p>
-
-
-
-
-<h1 align="center">TOOLS</h1>
-
-<p align="center">
   <!-- Tenosr Flow -->
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="50" height="50" style="vertical-align:top; margin:8px">
   <!-- scikit learn -->
@@ -70,9 +62,11 @@
   <!-- Heroku -->
   <!--
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50" style="vertical-align:top; margin:8px">
-  </p>  -->
+</p>
 
-<hr/>
+
+
+
 
 <!-- Twitter -->
 <!--
@@ -90,6 +84,7 @@
 
 
  <br>
+ 
   <h3 align="center">Recent Blog On Medium</h3>
   
  
