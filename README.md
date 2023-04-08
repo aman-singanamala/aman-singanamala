@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aman Singanamala</h1>
-<h3 align="center">Student at Vellore Institute of Technology</h3>
+<h1>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40"/> Hi 👋, I'm Aman Singanamala
+</h1>
+
+<h3 align="left">Student at Vellore Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-singanamala&label=Profile%20views&color=0e75b6&style=flat" alt="aman-singanamala" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amansinganamala" target="blank"><img src="https://img.shields.io/twitter/follow/amansinganamala?logo=twitter&style=for-the-badge" alt="amansinganamala" /></a> </p>
+<br>
 
 
 
@@ -24,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-singanamala&show_icons=true&locale=en" alt="aman-singanamala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-singanamala&" alt="aman-singanamala" /></p>
+
+
+
