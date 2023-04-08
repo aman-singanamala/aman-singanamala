@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amansinganamala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amansinganamala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman-singanamala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-singanamala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-singanamala-4aa05a206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-singanamala" height="30" width="40" /></a>
 <a href="https://kaggle.com/saman1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saman1708" height="30" width="40" /></a>
 <a href="https://medium.com/@amansinganamala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amansinganamala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aman1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman1708" height="30" width="40" /></a>
